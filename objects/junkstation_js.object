@@ -1,0 +1,78 @@
+{
+  "objectName" : "junkstation_js",
+  "rarity" : "Uncommon",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/craftingnocategories.config",
+	"paneLayoutOverride" : {
+	  "windowtitle" : {
+	    "title" : "  JUNK STATION",
+	    "subtitle" : "  For all your junk needs!",
+	    "icon" : {
+	      "file" : "/interface/crafting/wiringstation.png"
+		}
+	  }
+	},
+    "filter" : [ "junkstation_js" ]
+  },
+  "printable" : false,
+  "description" : "A table used for manufacturing doodads.",
+  "shortdescription" : "^purple;Junk Workstation.^white;",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 500,
+
+  "apexDescription" : "This is a pile of junk.",
+  "avianDescription" : "I cannot make a nest from this.",
+  "floranDescription" : "Thisss iss not natural.",
+  "glitchDescription" : "A pile of body parts.",
+  "humanDescription" : "Some mad scientest must use this.",
+  "hylotlDescription" : "Rudimentary and yet advanced. Interesting.",
+
+  "lightColor" : [90, 90, 90],
+
+  "pointLight" : true,
+  "pointBeam" : 0.25,
+  
+  "fickerPeriod" : 0.85,
+  "flickerMinIntensity" : 0.85,
+  "flickerMaxIntensity" : 1,
+  "fickerPeriodVariance" : 0.175,
+  "flickerIntensityVariance" : 0.025,
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "junkstation_js.png:<color>.<frame>", "fullbright" : true }, { "image" : "junkstation_jslit.png:<color>.<frame>" } ],
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+	  
+	  "lightPosition" : [-2,2],
+	  "pointAngle" : 315
+    },
+    {
+      "imageLayers" : [ { "image" : "junkstation_js.png:<color>.<frame>", "fullbright" : true }, { "image" : "junkstation_jslit.png:<color>.<frame>" } ],
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "direction" : "right",
+      "flipImages" : false,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+	  
+	  "lightPosition" : [1,2],
+	  "pointAngle" : 225
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "itemName" : "cbloc716",
+  "price" : 245,
+  "inventoryIcon" : "cbloc716.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "The little brother of the C-Block717, the 716 is a quicker hitting variant with a smaller caliber bullet.",
+  "shortdescription" : "C-Block 716",
+  "image" : "cbloc716.png",
+  "handPosition" : [-7.5, -0.75],
+  "firePosition" : [10, 1.5],
+  "recoilTime" : 0.03,
+  "level" : 9,
+  "tooltipKind" : "gun",
+  "weaponType" : "Assault Rifle",
+  "fireTime" : 0.05,
+  "inaccuracy" : 0.003,
+  "twoHanded" : true,
+  "walkWhileFiring" : false,
+
+  "projectileType" : "standardbullet",
+  "projectile" : {
+    "speed" : 300,
+    "life" : 3,
+    "power" : 0.3,
+    "color" : [255, 255, 255]
+  },
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/gun/sniper3.wav" } ],
+    "animation" : "/animations/muzzleflash/blankmuzzle/blankmuzzle.animation"
+  }
+}

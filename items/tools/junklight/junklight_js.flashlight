@@ -11,8 +11,8 @@
   "tooltipKind" : "tool",
   "image" : "junklight_js.png",
   "handPosition" : [-2, 0],
-  "lightPosition" : [20, 0],
-  "lightColor" : [200, 200, 200],
-  "beamLevel" : 5,
-  "beamAmbience" : 0.4
+  "lightPosition" : [5, 0],
+  "lightColor" : [180, 180, 180],
+  "beamLevel" : 4,
+  "beamAmbience" : 0
 }

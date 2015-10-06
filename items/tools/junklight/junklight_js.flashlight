@@ -14,5 +14,5 @@
   "lightPosition" : [5, 0],
   "lightColor" : [180, 180, 180],
   "beamLevel" : 4,
-  "beamAmbience" : 0
+  "beamAmbience" : 0.42
 }

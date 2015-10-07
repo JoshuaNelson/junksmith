@@ -37,7 +37,7 @@
   {
     "op" : "add",
     "path" : "/defaultBlueprints/tier1/-",
-    "value" : { "item" : "mat_mixer_js" }
+    "value" : { "item" : "matmix_js" }
   },
   { "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "goldvase3" } },
   { "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "grail" } },

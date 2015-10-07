@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "kludge_js", "count" : 1 }
-  ],
-  "output" : { "item" : "floranceilingbones2", "count" : 1 },
-  "groups" : [ "mat_mixer_js", "objects" ]
-}

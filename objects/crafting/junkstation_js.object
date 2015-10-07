@@ -17,7 +17,7 @@
   },
   "printable" : false,
   "description" : "A table used for manufacturing doodads.",
-  "shortdescription" : "^purple;Junk Workstation.^white;",
+  "shortdescription" : "^purple;Junk Workstation^white;",
   "race" : "generic",
   "category" : "crafting",
   "price" : 500,

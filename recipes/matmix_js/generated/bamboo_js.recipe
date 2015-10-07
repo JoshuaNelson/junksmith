@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "kludge_js", "count" : 1 }
+  ],
+  "output" : { "item" : "bamboo", "count" : 100 },
+  "groups" : [ "matmix_js", "materials" ]
+}

@@ -2,7 +2,7 @@
   "input" : [
     { "item" : "laserdiode", "count" : 5 },
     { "item" : "circuitboard", "count" : 2 },
-	{ "item" : "metalbarrel1", "count" : 1 }
+    { "item" : "metalbarrel1", "count" : 1 }
   ],
   "output" : { "item" : "cycler_js", "count" : 1 },
   "groups" : [ "junkstation_js", "all" ]

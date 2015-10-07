@@ -1,0 +1,12 @@
+{
+  "itemName" : "kludge_js",
+  "rarity" : "Common",
+  "inventoryIcon" : "mud.png",
+  "dropCollision" : [-2.5, -2.0, 2.5, 2.0],
+  "description" : "Thick and sticky mud.",
+  "shortdescription" : "Kludge",
+  "glitchdescription" : "Statement. The muddiest of mud.",
+  "florandescription" : "Mud. Floran like make messsss.",
+
+  "materialId" : 6501
+}

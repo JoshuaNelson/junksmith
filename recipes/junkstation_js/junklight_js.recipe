@@ -1,6 +1,8 @@
 {
   "input" : [
     { "item" : "metalbarrel1", "count" : 1 },
+    { "item" : "steelchair", "count" : 1 },
+    { "item" : "circuitboard", "count" : 1 },
     { "item" : "flashlight", "count" : 1 }
   ],
   "output" : { "item" : "junklight_js", "count" : 1 },

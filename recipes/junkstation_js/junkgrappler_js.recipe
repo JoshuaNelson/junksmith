@@ -1,6 +1,7 @@
 {
   "input" : [
     { "item" : "metalbarrel1", "count" : 1 },
+    { "item" : "climbingrope", "count" : 2 },
     { "item" : "wire", "count" : 20 }
   ],
   "output" : { "item" : "junkgrappler_js", "count" : 1 },

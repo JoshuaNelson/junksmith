@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "liquidlava", "count" : 1 },
+    { "item" : "dirtmaterial", "count" : 1 }
+  ],
+  "output" : { "item" : "kludge_js", "count" : 10 },
+  "groups" : [ "mat_mixer_js", "all" ]
+}
